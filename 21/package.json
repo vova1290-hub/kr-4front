@@ -1,0 +1,31 @@
+{
+  "name": "kr-4front",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "bcrypt": "^6.0.0",
+    "express": "^5.2.1",
+    "iceberg-js": "^0.8.1",
+    "jsonwebtoken": "^9.0.3",
+    "redis": "^5.12.1",
+    "tslib": "^2.8.1",
+    "undici-types": "^7.19.2",
+    "ws": "^8.20.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vova1290-hub/kr-4front.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/vova1290-hub/kr-4front/issues"
+  },
+  "homepage": "https://github.com/vova1290-hub/kr-4front#readme"
+}
